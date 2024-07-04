@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loganmacdougall
-- 👀 I’m interested in coding and philosophy
-- 🌱 I’m currently learning 2d graphics
-- 💞️ I’m looking to collaborate with a team
+- 👀 I’m interested in coding full stack and low-level applications
+- 🌱 I’m currently learning 2d graphics and cloud
+- 💞️ Always looking to collaborate with a team
 - 📫 You can reach at me@loganmacdougall.com
 
 <!---

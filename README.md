@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @loganmacdougall
-- 👀 I’m interested in coding full stack and low-level applications
-- 🌱 I’m currently learning 2d graphics and cloud
-- 💞️ Always looking to collaborate with a team
-- 📫 You can reach at me@loganmacdougall.com
+👋 Hi, I’m Logan MacDougall
+
+I'm currently in my masters at Dalhousie and am interested in many area of Computer Science including
+- Web Development
+- Cyber Security
+- Data-Structures and Algorithms
+- Machine Learning
 
 <!---
 loganmacdougall/loganmacdougall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
